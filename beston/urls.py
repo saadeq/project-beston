@@ -21,3 +21,5 @@ urlpatterns = [
     path('web/',include('web.urls')),
 
 ]
+
+ 
